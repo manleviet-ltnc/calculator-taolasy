@@ -1,0 +1,10 @@
+E:\github\calculator-taolasy\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\github\calculator-taolasy\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\github\calculator-taolasy\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\github\calculator-taolasy\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\github\calculator-taolasy\Calculator\Calculator\obj\Debug\Calculator.frmMain.resources
+E:\github\calculator-taolasy\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\github\calculator-taolasy\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\github\calculator-taolasy\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\github\calculator-taolasy\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\github\calculator-taolasy\Calculator\Calculator\obj\Debug\Calculator.pdb
